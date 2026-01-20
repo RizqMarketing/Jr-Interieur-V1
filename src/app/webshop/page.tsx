@@ -49,8 +49,7 @@ export default function WebshopPage() {
 
             {/* Description */}
             <p className="text-[18px] md:text-[20px] leading-[1.7] text-[#999999] max-w-[600px] mx-auto mb-12">
-              Wij werken hard aan onze nieuwe webshop waar u straks eenvoudig
-              hoogwaardig kantoor-, onderwijs- en zorgmeubilair kunt bestellen.
+              Onze nieuwe webshop waar u straks eenvoudig hoogwaardig kantoor-, onderwijs- en zorgmeubilair kunt bestellen.
             </p>
 
             {/* Features Preview */}
